@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wineatah
+- 👀 I’m interested in learning coding and automating my life
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on data analytics projects
+- 📫 How to reach me vineetadvnn@hotmail.com
